@@ -113,5 +113,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Autor
 
-Desenvolvido por [iameosada0](https://github.com/iamrosada).
+Desenvolvido por [iamrosada0](https://github.com/iamrosada).
 
