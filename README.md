@@ -40,16 +40,7 @@ Este projeto é uma aplicação que permite traduzir textos entre diferentes idi
    python app.py
    ```
 
-## Estrutura do Projeto
 
-```plaintext
-.
-├── app.py               # Arquivo principal que executa a interface gráfica
-├── model.py             # Arquivo contendo a lógica do modelo seq2seq
-├── README.md            # Documentação do projeto
-├── requirements.txt     # Dependências do projeto
-└── data/                # (Opcional) Dados para treinamento do modelo
-```
 
 ## Uso
 
