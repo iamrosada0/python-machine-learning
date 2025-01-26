@@ -122,5 +122,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Autor
 
-Desenvolvido por [Seu Nome](https://github.com/iamrosada).
+Desenvolvido por [iameosada0](https://github.com/iamrosada).
 
